@@ -1,2 +1,2 @@
-# Implanta-o_Azure
+# Implantação na Azure
 Ferramentas de Implantação na Azure
